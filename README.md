@@ -1,2 +1,2 @@
-# webDev
+# calculator
 Web Development
